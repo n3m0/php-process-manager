@@ -1,0 +1,19 @@
+{
+  "name": "n3m0/php-process-manager",
+  "license": "GPL",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Stephen Mittag",
+      "email": "stephen.mittag@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "psr/log": "*"
+  }
+}
